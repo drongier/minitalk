@@ -5,3 +5,6 @@
 1) Apprendre les differents sinaux ( KILL / SIGUSR1 )
 2) Qu'est-ce qu'un PID
 3) BITWISE Operator
+  
+  
+https://www-uxsup.csx.cam.ac.uk/courses/moved.Building/signals.pdf

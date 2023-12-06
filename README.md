@@ -6,6 +6,9 @@
 2) Qu'est-ce qu'un PID
 3) BITWISE Operator
 
+## ✅ Checklist minitalk
+
+
 ## 🔖 Bibliographie 
 
 - https://www-uxsup.csx.cam.ac.uk/courses/moved.Building/signals.pdf
